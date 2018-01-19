@@ -2407,7 +2407,7 @@ Sorry I have to be super aggressive in this legal stuff, but there has been some
 }
 
 .discriminator {
-    color: #666666!important;
+    color: var(--white7)!important;
 }
 
 .channel-textarea.has-results {
